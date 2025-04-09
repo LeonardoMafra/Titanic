@@ -2,7 +2,7 @@
 
 # Modelo 1
 
-Criação da [modelo 1](https://github.com/LeonardoMafra/Titanic/blob/main/Titanic.ipynb) de um modelo de Machine Learning para prever sobreviventes no acidente do Titanic com base nos dados disponibilizados no Kaggle, onde de inicio decidir por utlizar uma abordagem mais simples, focando nas colunas onde os valores eram inteiros e realizando os tratamentos necessarios.
+Criação do [modelo 1](https://github.com/LeonardoMafra/Titanic/blob/main/Titanic.ipynb) de um modelo de Machine Learning para prever sobreviventes no acidente do Titanic com base nos dados disponibilizados no Kaggle, onde de inicio decidir por utlizar uma abordagem mais simples, focando nas colunas onde os valores eram inteiros e realizando os tratamentos necessarios.
 
 Acuracia pelo Kaggle : 67%
 
